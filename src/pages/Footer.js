@@ -1,8 +1,8 @@
 const Footer = () => {
-  return (
-    <section className="fixed bottom-0 absolute">
+  return ( 
+    <section className="bg-blue-400 w-full p-2">
       <div className="container mx-auto"> 
-        <h1 className="font-bold">This is a footer</h1>
+        <h1 className="font-bold text-center">This is a footer</h1>
       </div>
     </section>
   );

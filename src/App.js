@@ -7,7 +7,7 @@ import Body from "./pages/Body";
 const App = () => {
   return (
     <div className="max-w-[800px] h-screen w-full mx-auto relative flex flex-col">
-      <Header title={"Bolg App"} />
+      <Header title={"Tech Blogs"} />
       <Nav />
       <Body />
       <Footer />
